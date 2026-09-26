@@ -33,7 +33,7 @@
 - [AI Scientist vs Scientific Agent vs AI Co-Scientist](01_foundations/ai-scientist-vs-scientific-agent.md)
 
 ### 02 AI Scientist
-- [Overview](02_ai-scientist/overview.md)
+- [Research Tree Overview](调研/研究树.md)
 - [End-to-End Research / The AI Scientist](02_ai-scientist/end-to-end-research.md)
 
 ### 03 Reasoning & Search
