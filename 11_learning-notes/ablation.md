@@ -1,5 +1,7 @@
 # 学习笔记：Ablation
 
+> 这是读论文时的**审查清单**；概念解释与示例见 [06_evaluation/ablation.md](../06_evaluation/ablation.md)。本笔记不重复维护机制证据，相关研究问题见 [问题树](../调研/问题树.md)。
+
 Ablation 不只是“删一个模块看看”。
 
 它真正回答：
