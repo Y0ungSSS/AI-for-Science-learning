@@ -1,5 +1,7 @@
 # 四个核心案例放在同一张图里
 
+> 这是教学用途的代表系统比较，不是最新系统排名。更近的机制和反证请查看 [研究树](../调研/研究树.md)；从案例寻找研究问题时查看 [问题树](../调研/问题树.md)。
+
 | 系统 | 主要自动化对象 | 反馈来源 | 最值得学的机制 | 暴露的问题 |
 |---|---|---|---|---|
 | AI Co-Scientist | hypothesis / proposal | evaluator / ranking | pairwise debate、ranking、idea evolution | 执行前评价是否可信 |
