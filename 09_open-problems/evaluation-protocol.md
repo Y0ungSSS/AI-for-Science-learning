@@ -1,4 +1,6 @@
-# OP-02 深入：Scientific Agent Evaluation Protocol
+# Scientific Agent Evaluation Protocol（历史 OP-02 专题）
+
+> 本文是评测协议的专题说明。当前问题定义见 [问题树 Q7](../调研/问题树.md)，机制和最新前作见 [研究树 H7/H8](../调研/研究树.md)；[06_evaluation](../06_evaluation/overview.md) 提供学习入口。
 
 ## 1. 为什么“一个总分”不够
 
