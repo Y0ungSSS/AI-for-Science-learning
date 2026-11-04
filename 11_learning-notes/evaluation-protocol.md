@@ -1,5 +1,7 @@
 # 学习笔记：Evaluation Protocol
 
+> 这是可迁移的**论文阅读检查表**。概念与评测类型见 [06_evaluation/overview.md](../06_evaluation/overview.md)，完整专题见 [09_open-problems/evaluation-protocol.md](../09_open-problems/evaluation-protocol.md)，当前研究问题见 [问题树 Q7](../调研/问题树.md)。
+
 这是一个需要长期保留并迁移到其他科研项目的方法论。
 
 ## 不要只问“指标是什么”
